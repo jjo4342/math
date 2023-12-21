@@ -1,1 +1,1 @@
-# cpp_project_template
+# Math library for C++
