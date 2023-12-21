@@ -1,8 +1,6 @@
 // Copyright (c) 2023 Juyeong Jang, All Rights Reserved.
 // Authors: Juyeong Jang
 
-
-/*
 #include <cstdint>
 
 #include "gtest/gtest.h"
@@ -12,4 +10,3 @@ auto main(int32_t argc, char **argv) -> int32_t {
 
   return RUN_ALL_TESTS();
 }
-*/
